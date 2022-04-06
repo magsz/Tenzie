@@ -1,0 +1,3 @@
+[submodule "tenzie-dice/tenzie-dice/Tenzie"]
+	path = tenzie-dice/tenzie-dice/Tenzie
+	url = https://github.com/magsz/Tenzie.git
